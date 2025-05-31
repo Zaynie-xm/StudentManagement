@@ -1,0 +1,11 @@
+D:\11.软件项目\StudentManagement\StudentManagement\bin\Release\StudentManagement.exe
+D:\11.软件项目\StudentManagement\StudentManagement\bin\Release\StudentManagement.pdb
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.Properties.Resources.resources
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.csproj.GenerateResource.Cache
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.exe
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.pdb
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.Login.resources
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.AdminMainForm.resources
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.StudentMainForm.resources
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.TeacherMainFomr.resources
+D:\11.软件项目\StudentManagement\StudentManagement\obj\Release\StudentManagement.csprojResolveAssemblyReference.cache
